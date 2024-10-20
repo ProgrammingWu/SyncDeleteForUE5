@@ -64,7 +64,7 @@ D:\YouUEProject\SyncDelete\SyncDelete.uproject
 
 从其他库中，打开日志文件（下图用TortoiseGit查看的）。然后拷贝相对路径。
 
-![01](Picture/DOC/001.png)
+![01](../Picture/DOC/001.png)
 
 之后运行SyncDelete项目。把相对路径拷贝进去。删除即可。
 
