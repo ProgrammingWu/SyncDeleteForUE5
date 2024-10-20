@@ -20,8 +20,8 @@ D:\YouUEProject\YouUEProject.uproject
 此项目位置应为：
 D:\YouUEProject\SyncDelete\SyncDelete.uproject
 
-如上的路径，只能删除D:\YouUEProject\下的文件。
-请在使用此程序前，先把D:\YouUEProject\进行版本控制。防止操作失误造成误删。所有后果自负
+为了把风险降到最低，此项目只能删除D:\YouUEProject\下的文件。
+请在使用此程序前，先把D:\YouUEProject\进行版本控制。防止操作失误造成误删。再次强调一遍，请确认自己了解操作的后果后，再执行操作。所有后果自负。
 
 
 
