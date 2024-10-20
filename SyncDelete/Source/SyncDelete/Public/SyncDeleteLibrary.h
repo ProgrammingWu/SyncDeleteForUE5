@@ -67,4 +67,7 @@ public:
 	 */
 	UFUNCTION(BlueprintCallable, Category = "SyncDelete")
 	static TArray<FString> SplitFStringByNewline(const FString& Input);
+
+	UFUNCTION(BlueprintCallable, Category = "SyncDelete")
+	static FString GetPlatNormalizePath(FString InPath);
 };

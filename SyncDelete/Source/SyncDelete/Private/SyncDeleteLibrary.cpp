@@ -79,4 +79,10 @@ TArray<FString> USyncDeleteLibrary::SplitFStringByNewline(const FString& Input)
 	return MoveTemp(Result);
 }
 
+FString USyncDeleteLibrary::GetPlatNormalizePath(FString InPath)
+{
+	FPlatformMisc::NormalizePath(InPath);
+	return InPath;
+}
+
 
