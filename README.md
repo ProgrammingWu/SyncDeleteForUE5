@@ -10,6 +10,21 @@ https://space.bilibili.com/381317561
 
 但是删除就无法通过这个操作同步了。所以我才开发了这个项目。
 
+# 免责声明
+此项目会按照日志信息删除文件。操作风险较高。使用时请一定要确认自己完全了解本程序。所有后果自负。
+
+删除文件说明：
+此程序需要连同根目录一起放到项目根目录中。如：
+UE项目位置：
+D:\YouUEProject\YouUEProject.uproject
+此项目位置应为：
+D:\YouUEProject\SyncDelete\SyncDelete.uproject
+
+如上的路径，只能删除D:\YouUEProject\下的文件。
+请在使用此程序前，先把D:\YouUEProject\进行版本控制。防止操作失误造成误删。所有后果自负
+
+
+
 # 为什么使用UE开发？
 本来我打算用java开发来着。但考虑到运行java项目。需要再计算机安装JRE。并不是所有UE开发者都有JRE。
 
